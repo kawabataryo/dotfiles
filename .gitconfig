@@ -6,15 +6,11 @@
 	email = ryo.wizard@gmail.com
 [color]
 	ui = auto
+[push]
+	default = current
+[core]
+	excludesfile = /Users/kawabataryou/.gitignore_gloval
 [alias]
 	st = status
 	co = checkout
 	br = branch
-[core]
-	excludesfile = /Users/kawabataryou/.gitignore_global
-[difftool "sourcetree"]
-	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
-[mergetool "sourcetree"]
-	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-	trustExitCode = true

@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/kawabataryou/.npm'
 let g:netrw_dirhist_2='/Users/kawabataryou/.vim'
 let g:netrw_dirhist_3='/Users/kawabataryou/.codeintel'
@@ -7,3 +7,4 @@ let g:netrw_dirhist_4='/Users/kawabataryou/.config'
 let g:netrw_dirhist_5='/Users/kawabataryou/.config/git'
 let g:netrw_dirhist_6='/Users/kawabataryou/.nodebrew'
 let g:netrw_dirhist_7='/Users/kawabataryou/.git'
+let g:netrw_dirhist_8='/Users/kawabataryou/dotfiles/.git'
