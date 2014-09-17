@@ -2,9 +2,14 @@
 	clean = git-media-clean %f
 	smudge = git-media-smudge %f
 [user]
-[user]
 	name = kawabataryo
 	email = ryo.wizard@gmail.com
+[color]
+	ui = auto
+[alias]
+	st = status
+	co = checkout
+	br = branch
 [core]
 	excludesfile = /Users/kawabataryou/.gitignore_global
 [difftool "sourcetree"]
