@@ -1,0 +1,1 @@
+/Users/kawabataryou/dotfiles/.vim
