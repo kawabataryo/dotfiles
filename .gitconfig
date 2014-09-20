@@ -9,7 +9,7 @@
 [push]
 	default = current
 [core]
-	excludesfile = /Users/kawabataryou/.gitignore_gloval
+	excludesfile = /Users/kawabataryou/.gitignore_global
 [alias]
 	st = status
 	co = checkout
