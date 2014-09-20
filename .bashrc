@@ -4,7 +4,7 @@ export PATH="/usr/local/share/npm/bin:$PATH"
 
 # source
 source ~/.bash_prompt
-source ~/git-completion.bash
+source ~/.git-completion.bash
 
 # Alias
 alias ls='ls -AG'
