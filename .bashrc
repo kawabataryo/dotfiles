@@ -1,7 +1,6 @@
 # 環境変数
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 export PATH="/usr/local/share/npm/bin:$PATH"
-export YAHOO_API_APP_KEY="dj0zaiZpPWkyRjdhTEtuMjY5biZzPWNvbnN1bWVyc2VjcmV0Jng9MzQ-"
 
 # source
 source ~/.bash_prompt
