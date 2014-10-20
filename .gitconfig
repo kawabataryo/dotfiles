@@ -6,10 +6,14 @@
 	email = ryo.wizard@gmail.com
 [color]
 	ui = auto
+	diff = auto
+	status = auto
+	branch = auto
 [push]
 	default = current
 [core]
 	excludesfile = /Users/kawabataryou/.gitignore_global
+	editor = vim -c \"set fenc=utf-8\"
 [alias]
 	st = status
 	co = checkout
