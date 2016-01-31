@@ -1,6 +1,7 @@
 # 環境変数
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 export PATH="/usr/local/share/npm/bin:$PATH"
+export PATH=/usr/local/git/bin:$PATH
 
 # source
 source ~/.bash_prompt
